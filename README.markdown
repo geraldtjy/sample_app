@@ -1,3 +1,10 @@
+# Ruby on Rails Tutorial: sample application
+
+This is the sample application for
+[]()
+geraldtjy@gmail.com
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
